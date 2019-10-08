@@ -1,0 +1,2 @@
+# hacker
+oprendszerek óra
